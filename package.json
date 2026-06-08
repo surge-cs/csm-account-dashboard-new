@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "20de4522-5fec-11f1-a91c-53437f5fae56",
+      "name": null,
+      "resourceReferencesByFile": {
+        "/backend/dashboard/getDashboardData.ts": [
+          {
+            "name": "616dc71a-71d9-4777-9233-8e984f464440",
+            "displayName": "CS Account Plan",
+            "type": "googlesheets"
+          }
+        ],
+        "/backend/user.d.ts": []
+      }
+    }
+  }
+}
